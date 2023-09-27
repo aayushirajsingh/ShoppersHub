@@ -44,10 +44,10 @@ public class ProfileFragment extends Fragment {
 
         Glide.with(this).load(Constants.BASE_URL_IP+"images/img_profile.jpg").into(binding.profileImage);
 
-        AppCompatActivity activity = (AppCompatActivity) getActivity();
+        /*AppCompatActivity activity = (AppCompatActivity) getActivity();
         if (activity != null) {
             activity.getSupportActionBar().hide();
-        }
+        }*/
 
         binding.llCart.setOnClickListener(new View.OnClickListener() {
             @Override

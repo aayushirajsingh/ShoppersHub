@@ -106,6 +106,7 @@
         android:layout_marginBottom="10dp"
         android:background="@drawable/round_button"
         android:text="Checkout"
+        android:fontFamily="@font/playfair"
         android:textColor="@color/romance">
 
     </Button>
