@@ -1,5 +1,5 @@
 # ShoppersHub
-An E-Commerce application in Android(Java)
+An E-Commerce application in Android (Java)
 
 
 <p>
